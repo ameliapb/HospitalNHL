@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NLHModelStoreContainer" CdmEntityContainer="NLHEntities1">
+    <EntitySetMapping Name="Compagnie_Assurance">
+      <EntityTypeMapping TypeName="NLHModel.Compagnie_Assurance">
+        <MappingFragment StoreEntitySet="Compagnie_Assurance">
+          <ScalarProperty Name="ID_compagnie" ColumnName="ID_compagnie" />
+          <ScalarProperty Name="nom_compagnie" ColumnName="nom_compagnie" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Departements">
+      <EntityTypeMapping TypeName="NLHModel.Departement">
+        <MappingFragment StoreEntitySet="Departement">
+          <ScalarProperty Name="ID_Departement" ColumnName="ID_Departement" />
+          <ScalarProperty Name="nom_departement" ColumnName="nom_departement" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Dossier_Admission">
+      <EntityTypeMapping TypeName="NLHModel.Dossier_Admission">
+        <MappingFragment StoreEntitySet="Dossier_Admission">
+          <ScalarProperty Name="ID_Admission" ColumnName="ID_Admission" />
+          <ScalarProperty Name="chirurgie_programme" ColumnName="chirurgie_programme" />
+          <ScalarProperty Name="date_admission" ColumnName="date_admission" />
+          <ScalarProperty Name="date_chirurgie" ColumnName="date_chirurgie" />
+          <ScalarProperty Name="date_conge" ColumnName="date_conge" />
+          <ScalarProperty Name="NSS" ColumnName="NSS" />
+          <ScalarProperty Name="Numéro_Lit" ColumnName="Numéro_Lit" />
+          <ScalarProperty Name="ID_Medecin" ColumnName="ID_Medecin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Lits">
+      <EntityTypeMapping TypeName="NLHModel.Lit">
+        <MappingFragment StoreEntitySet="Lit">
+          <ScalarProperty Name="Numero_Lit" ColumnName="Numero_Lit" />
+          <ScalarProperty Name="occupe" ColumnName="occupe" />
+          <ScalarProperty Name="numero_Type" ColumnName="numero_Type" />
+          <ScalarProperty Name="ID_Departement" ColumnName="ID_Departement" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MedecinTs">
+      <EntityTypeMapping TypeName="NLHModel.MedecinT">
+        <MappingFragment StoreEntitySet="MedecinT">
+          <ScalarProperty Name="ID_Medecin" ColumnName="ID_Medecin" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="specialite" ColumnName="specialite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Parents">
+      <EntityTypeMapping TypeName="NLHModel.Parent">
+        <MappingFragment StoreEntitySet="Parent">
+          <ScalarProperty Name="Ref_Parent" ColumnName="Ref_Parent" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="adresse" ColumnName="adresse" />
+          <ScalarProperty Name="ville" ColumnName="ville" />
+          <ScalarProperty Name="province" ColumnName="province" />
+          <ScalarProperty Name="code_postal" ColumnName="code_postal" />
+          <ScalarProperty Name="telephone" ColumnName="telephone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Patients">
+      <EntityTypeMapping TypeName="NLHModel.Patient">
+        <MappingFragment StoreEntitySet="Patient">
+          <ScalarProperty Name="NSS" ColumnName="NSS" />
+          <ScalarProperty Name="date_naissance" ColumnName="date_naissance" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="adresse" ColumnName="adresse" />
+          <ScalarProperty Name="ville" ColumnName="ville" />
+          <ScalarProperty Name="province" ColumnName="province" />
+          <ScalarProperty Name="code_postal" ColumnName="code_postal" />
+          <ScalarProperty Name="telephone" ColumnName="telephone" />
+          <ScalarProperty Name="IDCompagnie" ColumnName="IDCompagnie" />
+          <ScalarProperty Name="Ref_Parent" ColumnName="Ref_Parent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Type_Lit">
+      <EntityTypeMapping TypeName="NLHModel.Type_Lit">
+        <MappingFragment StoreEntitySet="Type_Lit">
+          <ScalarProperty Name="Numero_Type" ColumnName="Numero_Type" />
+          <ScalarProperty Name="description" ColumnName="description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,193 @@
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.exe.config
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.exe
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.pdb
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\MainWindow.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\App.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_MarkupCompile.cache
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_MarkupCompile.lref
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\MainWindow.baml
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.g.resources
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.Properties.Resources.resources
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.csproj.GenerateResource.cache
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.exe
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.pdb
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Medecin.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Personnel.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProcessusAdmission.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\RecherchePatient.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Tableau Consultaion.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Medecin.baml
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Personnel.baml
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProcessusAdmission.baml
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\RecherchePatient.baml
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Tableau Consultaion.baml
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.exe.config
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.exe
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.pdb
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.csprojAssemblyReference.cache
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Admin.g.cs
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\MainWindow.g.cs
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Medecin.g.cs
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Personnel.g.cs
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\prepose.g.cs
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProcessusAdmission.g.cs
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\RecherchePatient.g.cs
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Tableau Consultaion.g.cs
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\App.g.cs
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_MarkupCompile.cache
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_MarkupCompile.lref
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Admin.baml
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\MainWindow.baml
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Medecin.baml
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Personnel.baml
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\prepose.baml
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProcessusAdmission.baml
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\RecherchePatient.baml
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Tableau Consultaion.baml
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.g.resources
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.Properties.Resources.resources
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.csproj.GenerateResource.cache
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.exe
+E:\formation\4eme etape\toufik C sharp\projet - Copie\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.pdb
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.dll
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.SqlServer.dll
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.xml
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.SqlServer.xml
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\fr\EntityFramework.resources.dll
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_Content.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.csprojResolveAssemblyReference.cache
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.exe.config
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.exe
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.pdb
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.exe
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.pdb
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.dll
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.SqlServer.dll
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.xml
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.SqlServer.xml
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\fr\EntityFramework.resources.dll
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.csprojResolveAssemblyReference.cache
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Admin.g.cs
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\MainWindow.g.cs
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Medecin.g.cs
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Personnel.g.cs
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\prepose.g.cs
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProcessusAdmission.g.cs
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\RecherchePatient.g.cs
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Tableau Consultaion.g.cs
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\App.g.cs
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_Content.g.cs
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_MarkupCompile.cache
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_MarkupCompile.lref
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Admin.baml
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\MainWindow.baml
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Medecin.baml
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Personnel.baml
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\prepose.baml
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProcessusAdmission.baml
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\RecherchePatient.baml
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Tableau Consultaion.baml
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.g.resources
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.Properties.Resources.resources
+F:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.csproj.GenerateResource.Cache
+G:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.exe.config
+G:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.exe
+G:\etape4\toufik\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.pdb
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutCompagnie.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutParent.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutCompagnie.baml
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutParent.baml
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutMed.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutMed.baml
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ModifMed.g.cs
+E:\formation\4eme etape\toufik C sharp\projet\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ModifMed.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.exe.config
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.exe
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.pdb
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.dll
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\MaterialDesignColors.dll
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.xml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutCompagnie.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutMed.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutParent.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\MainWindow.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Medecin.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ModifMed.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Personnel.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProcessusAdmission.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\RecherchePatient.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Tableau Consultaion.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\App.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_Content.g.cs
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_MarkupCompile.cache
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_MarkupCompile.lref
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\App.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutCompagnie.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutMed.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutParent.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\MainWindow.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Medecin.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ModifMed.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Personnel.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProcessusAdmission.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\RecherchePatient.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Tableau Consultaion.baml
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.g.resources
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.Properties.Resources.resources
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.csproj.GenerateResource.Cache
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.exe
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.pdb
+C:\Users\Amelia\Documents\B05-Toufik\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.csprojResolveAssemblyReference.cache
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.exe.config
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.exe
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.pdb
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.exe
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\ProjetIntegrateur.pdb
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.dll
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\MaterialDesignColors.dll
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.xml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.csprojResolveAssemblyReference.cache
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutCompagnie.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutMed.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutParent.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\MainWindow.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Medecin.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ModifMed.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Personnel.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProcessusAdmission.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\RecherchePatient.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Tableau Consultaion.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\App.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_Content.g.cs
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_MarkupCompile.cache
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur_MarkupCompile.lref
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\App.baml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutCompagnie.baml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutMed.baml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\AjoutParent.baml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\MainWindow.baml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Medecin.baml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ModifMed.baml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Personnel.baml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProcessusAdmission.baml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\RecherchePatient.baml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\Tableau Consultaion.baml
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.g.resources
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.Properties.Resources.resources
+C:\Users\Amelia\Desktop\projet toufik\ProjetIntegrateur\ProjetIntegrateur\obj\Debug\ProjetIntegrateur.csproj.GenerateResource.Cache

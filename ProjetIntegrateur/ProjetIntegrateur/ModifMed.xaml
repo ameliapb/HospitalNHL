@@ -1,0 +1,29 @@
+﻿<Window x:Class="ProjetIntegrateur.ModifMed"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjetIntegrateur"
+        mc:Ignorable="d"
+        Title="Modifier Médecin" Height="400" Width="599" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="589*"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox x:Name="groupBox" Header="Recherche "  HorizontalAlignment="Left" Margin="24,16,0,0" VerticalAlignment="Top" Height="91" Width="535" Grid.Column="1" RenderTransformOrigin="0.497,0.301"/>
+        <Label Content="Selectionner le nom du médecin:" HorizontalAlignment="Left" Margin="77,66,0,0" VerticalAlignment="Top" Height="25" Width="193" Grid.Column="1"/>
+        <ComboBox x:Name="cbMed" HorizontalAlignment="Left" Margin="287,66,0,0" BorderThickness="1" VerticalAlignment="Top" Width="230" IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding}" DisplayMemberPath="nom" SelectionChanged="cbPatient_SelectionChanged" Height="27" IsEditable="True" Grid.Column="1"/>
+        <GroupBox x:Name="groupBox1" Header="Médecin"  HorizontalAlignment="Left" Height="160" Margin="26,134,0,0" VerticalAlignment="Top" Width="535" Grid.Column="1"/>
+        <Label Content="Specialité" HorizontalAlignment="Left" Margin="80,258,0,0" VerticalAlignment="Top" Width="143" Height="25" Grid.Column="1"/>
+        <TextBox x:Name="txtSpecialite" HorizontalAlignment="Left" Height="27" Margin="223,258,0,0" BorderThickness="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="295" Grid.Column="1" SelectionOpacity="-2"/>
+        <Label Content="Nom" HorizontalAlignment="Left" Margin="80,180,0,0" VerticalAlignment="Top" Width="143" Height="23" Grid.Column="1"/>
+        <TextBox x:Name="txtNom" HorizontalAlignment="Left" Height="27" Margin="223,180,0,0" BorderThickness="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="295" Grid.Column="1"/>
+        <Label Content="Prénom" HorizontalAlignment="Left" Margin="80,217,0,0" VerticalAlignment="Top" Width="143" Height="23" Grid.Column="1"/>
+        <TextBox x:Name="txtPrenom" HorizontalAlignment="Left" Height="27" Margin="223,217,0,0" BorderThickness="1"  VerticalAlignment="Top" Width="295" Grid.Column="1"/>
+
+        <Button x:Name="btnModif" Content="Modifier un médecin" Background="LightCoral" HorizontalAlignment="Left" Margin="37,314,0,0" VerticalAlignment="Top" Width="181" Click="btnModif_Click" Height="27" Grid.Column="1"/>
+        <Button x:Name="btnRetour" Content="Retour à la page Admin" Background="LightCoral" HorizontalAlignment="Left" Margin="342,314,0,0" VerticalAlignment="Top" Width="196" Click="btnRetour_Click" Height="27" Grid.Column="1"/>
+            
+    </Grid>
+</Window>

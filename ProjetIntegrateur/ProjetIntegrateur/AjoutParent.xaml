@@ -1,0 +1,32 @@
+﻿<Window x:Class="ProjetIntegrateur.AjoutParent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjetIntegrateur"
+        mc:Ignorable="d"
+        Title="Ajouter un parent" Height="481.742" Width="424.333" WindowStartupLocation="CenterScreen" Closed="Window_Closed">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox x:Name="groupBox" Header="Entrez les informations du parent" HorizontalAlignment="Left" Height="385" Margin="20,46,0,0" VerticalAlignment="Top" Width="375"/>
+        <Label x:Name="label" Content="Nom              :" HorizontalAlignment="Left" Margin="32,108,0,0" VerticalAlignment="Top" Width="143" Height="26"/>
+        <TextBox x:Name="txtNom" HorizontalAlignment="Left" Height="27" Margin="134,111,0,0" BorderThickness="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="232"/>
+        <Button x:Name="btnAjouter" Content="Ajouter" Background="LightCoral" HorizontalAlignment="Left" Margin="237,373,0,0" VerticalAlignment="Top" Width="113" Click="btnAjoutParent_Click" Height="33"/>
+        <Button x:Name="btnAnnuler" Content="Annuler" Background="LightCoral" HorizontalAlignment="Left" Margin="107,374,0,0" VerticalAlignment="Top" Width="116" Height="32"/>
+        <Label x:Name="label_Copy" Content="Prénom          :" HorizontalAlignment="Left" Margin="32,144,0,0" VerticalAlignment="Top" Width="143" Height="26"/>
+        <TextBox x:Name="txtPrenom" HorizontalAlignment="Left" Height="27" Margin="134,147,0,0" BorderThickness="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="label_Copy1" Content="Adresse          :" HorizontalAlignment="Left" Margin="32,180,0,0" VerticalAlignment="Top" Width="143" Height="26"/>
+        <TextBox x:Name="txtAdr" HorizontalAlignment="Left" Height="27" Margin="134,183,0,0" BorderThickness="1"  TextWrapping="Wrap" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="label_Copy2" Content="Ville                :" HorizontalAlignment="Left" Margin="32,216,0,0" VerticalAlignment="Top" Width="143" Height="26"/>
+        <TextBox x:Name="txtVille" HorizontalAlignment="Left" Height="27" Margin="134,219,0,0" BorderThickness="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="label_Copy3" Content="Province         :" HorizontalAlignment="Left" Margin="32,254,0,0" VerticalAlignment="Top" Width="143" Height="26"/>
+        <TextBox x:Name="txtProvince" HorizontalAlignment="Left" Height="27" Margin="134,257,0,0" BorderThickness="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="label_Copy4" Content="Code Postal    :" HorizontalAlignment="Left" Margin="32,290,0,0" VerticalAlignment="Top" Width="143" Height="26"/>
+        <TextBox x:Name="txtCP" HorizontalAlignment="Left" Height="27" Margin="134,293,0,0" BorderThickness="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="label_Copy5" Content="Téléphone      :" HorizontalAlignment="Left" Margin="32,325,0,0" VerticalAlignment="Top" Width="143" Height="26"/>
+        <TextBox x:Name="txtTel" HorizontalAlignment="Left" Height="27" Margin="134,328,0,0" BorderThickness="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="232" PreviewKeyDown="txtTel_PreviewKeyDown"/>
+    </Grid>
+</Window>

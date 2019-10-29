@@ -1,0 +1,38 @@
+﻿<Window x:Class="ProjetIntegrateur.ProcessusAdmission"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjetIntegrateur"
+        mc:Ignorable="d"
+        Title="Processus d'Admission" Height="735.762" Width="800" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,0,2">
+        <Label x:Name="label_Copy" Content="Date d'Admission   :" HorizontalAlignment="Left" Margin="83,223,0,0" VerticalAlignment="Top" Width="169"/>
+        <Label x:Name="label_Copy1" Content="Date de La Churirgie :" HorizontalAlignment="Left" Margin="83,316,0,0" VerticalAlignment="Top" Width="164"/>
+        <Label x:Name="label_Copy2" Content="NSS :" HorizontalAlignment="Left" Margin="83,180,0,0" VerticalAlignment="Top" Width="164"/>
+        <Label x:Name="label_Copy4" Content="Nom Médecin :" HorizontalAlignment="Left" Margin="83,379,0,0" VerticalAlignment="Top" Width="164"/>
+        <Button x:Name="btnValider" Content="Valider" Background="LightCoral" HorizontalAlignment="Left" Margin="144,635,0,0" VerticalAlignment="Top" Width="187" Height="30" Click="btnValider_Click" RenderTransformOrigin="0.307,0.452" IsEnabled="False"/>
+        <Button x:Name="btnAnnuler" Content="Retour" Background="LightCoral" HorizontalAlignment="Left" Margin="404,635,0,0" VerticalAlignment="Top" Width="255" Height="30" Click="btnAnnuler_Click"/>
+        
+        <GroupBox x:Name="groupBox" Header="Patient" HorizontalAlignment="Left" Margin="10,14,0,0" VerticalAlignment="Top" Height="90" Width="772"/>
+        <Label x:Name="label_Copy5" Content="Nom du Patient :" HorizontalAlignment="Left" Margin="32,53,0,0" VerticalAlignment="Top" Width="164"/>
+        <TextBox x:Name="txtNom" HorizontalAlignment="Left" Height="27" Margin="162,53,0,0" BorderThickness="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="166" IsEnabled="False"/>
+        <Label x:Name="label_Copy6" Content="Prénom du Patient :" HorizontalAlignment="Left" Margin="404,53,0,0" VerticalAlignment="Top" Width="150"/>
+        <TextBox x:Name="txtPrenom" HorizontalAlignment="Left" Height="27" Margin="583,53,0,0" BorderThickness="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" IsEnabled="False"/>
+        
+        <GroupBox x:Name="groupBox1" Header="Dossier d'Admission" HorizontalAlignment="Left" Height="298" Margin="10,131,0,0" VerticalAlignment="Top" Width="772"/>
+        <ComboBox x:Name="cbMedecin" HorizontalAlignment="Left" Margin="303,379,0,0" BorderThickness="1" VerticalAlignment="Top" Width="272" Height="27" IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding}" DisplayMemberPath="nom" SelectionChanged="cbMedecin_SelectionChanged" />
+        <DatePicker x:Name="dateAdmission" HorizontalAlignment="Left" Margin="303,225,0,0"  BorderThickness="1" VerticalAlignment="Top" Width="265"/>
+        <DatePicker x:Name="DateChurirgie" HorizontalAlignment="Left" Margin="303,316,0,0" BorderThickness="1" VerticalAlignment="Top" Width="272" IsEnabled="False"/>
+        <Label x:Name="label_Copy7" Content="Chirurgie Programmé   :" HorizontalAlignment="Left" Margin="83,270,0,0" VerticalAlignment="Top" Width="169"/>
+        <TextBox x:Name="txtNSS" HorizontalAlignment="Left" Height="23" Margin="303,180,0,0" BorderThickness="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="272" IsEnabled="False"/>
+        <GroupBox x:Name="groupBox2" Header="Choisissez le Type de Chambre" HorizontalAlignment="Left" Height="145" Margin="55,462,0,0" VerticalAlignment="Top" Width="691"/>
+        <Label x:Name="label_Copy3" Content="Numéro de Lit Disponible  :" HorizontalAlignment="Left" Margin="86,544,0,0" VerticalAlignment="Top" Width="204"/>
+        <ComboBox x:Name="cbLit" HorizontalAlignment="Left" Margin="360,544,0,0" VerticalAlignment="Top" BorderThickness="1" Width="338" IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding}" DisplayMemberPath="Numero_Lit" SelectionChanged="cbLit_SelectionChanged" />
+        <CheckBox x:Name="ChuPche" Content="" HorizontalAlignment="Left" Margin="303,270,0,0" VerticalAlignment="Top" Height="26" Width="25" Checked="ChuPche_Checked" Click="ChuPche_Click"/>
+        <RadioButton x:Name="rbPublic" Content="Public" HorizontalAlignment="Left" Margin="191,512,0,0" VerticalAlignment="Top" IsChecked="True" Checked="rbPublic_Checked" Width="63"/>
+        <RadioButton x:Name="rbSPublic" Content="Semi public" HorizontalAlignment="Left" Margin="392,512,0,0" VerticalAlignment="Top" Click="rbSPublic_Click" Width="100"/>
+        <RadioButton x:Name="rbPrive" Content="Privé" HorizontalAlignment="Left" Margin="592,512,0,0" VerticalAlignment="Top" Click="rbPrive_Click" Width="56"/>
+
+    </Grid>
+</Window>
